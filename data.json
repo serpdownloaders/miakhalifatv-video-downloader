@@ -1,0 +1,213 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/miakhalifatv-downloader",
+  "serply_link": "https://serp.ly/miakhalifatv-downloader",
+  "app_name": "Miakhalifatv Video Downloader",
+  "short_description": "Download & Save Miakhalifatv Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Miakhalifatv Downloader is a browser extension built specifically for MiaKhalifa.tv's video pages under the /en/videos/ route. Instead of generic downloader copy, this tool matches the site's performer-branded.tv identity and embedded video flow. It works with the page's natural structure, letting you capture available media directly from the browser.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/miakhalifatv-downloader-fullscreen-01-5f9774390c.webp",
+    "https://apps.serp.co/media/optimized-products/miakhalifatv-downloader-fullscreen-02-b319164fce.webp",
+    "https://apps.serp.co/media/optimized-products/miakhalifatv-downloader-fullscreen-03-8aa1adf6e8.webp",
+    "https://apps.serp.co/media/optimized-products/miakhalifatv-downloader-fullscreen-04-8ea71c91af.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is this extension officially affiliated with MiaKhalifa.tv?",
+      "answer": "No. This is an independent browser extension built by SERP Apps to work with the site's public page structure."
+    },
+    {
+      "question": "Does it work on every MiaKhalifa.tv video page?",
+      "answer": "It is designed for pages under the /en/videos/ route. Other sections of the site may not be supported."
+    },
+    {
+      "question": "Can I download multiple videos at once?",
+      "answer": "The extension processes one download at a time. Batch downloading is not currently supported."
+    },
+    {
+      "question": "Is my data safe when using this extension?",
+      "answer": "Yes. All detection and download processing happens locally in your browser. No personal data is sent to external servers."
+    },
+    {
+      "question": "Why is the readiness language cautious in this README?",
+      "answer": "The extension is a verified target with strong signals, but some configuration elements are still being finalized. The messaging reflects that transparency."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Fast and private downloads without unnecessary permissions"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Built for MiaKhalifa.tv's /en/videos/ page structure and name-led catalog slugs",
+    "Designed around the site's embedded iframe or player handoff flow",
+    "Detects m3u8 playlists and direct mp4 sources when the page exposes them",
+    "Fast and private downloads without unnecessary permissions",
+    "Verified target with measured readiness language",
+    "Tailored to MiaKhalifa.tv's /en/videos/ page structure and performer-branded.tv domain",
+    "Designed around the embedded iframe or player handoff flow",
+    "Detects m3u8 playlists when the page exposes HLS streams",
+    "Captures direct mp4 sources when available",
+    "Works with name-led catalog slugs like mia-khalifa-gets-her-pussy-stretched",
+    "Fast detection without unnecessary page scanning",
+    "Private downloads processed locally in your browser",
+    "Verified target status with transparent readiness messaging"
+  ],
+  "content": {
+    "why": [
+      "Generic video downloaders treat every adult site the same, applying interchangeable copy that ignores the unique page structure of performer-branded destinations like MiaKhalifa.tv. That approach misses the site's specific route pattern, its name-led catalog slugs, and the embedded player handoff that reveals the actual media source.",
+      "Miakhalifatv Downloader is different. It is built around the site's actual /en/videos/ route, its performer-branded.tv identity, and the iframe or player surface that delivers the stream. Instead of guessing or applying broad downloader logic, this extension works with the page flow as it exists, surfacing m3u8 playlists or direct mp4 files when the embedded component makes them available. The result is a more precise, site-native download experience."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open MiaKhalifa.tv and go to a supported video page under /en/videos/.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Miakhalifatv Downloader extension from the latest GitHub release.",
+      "Navigate to MiaKhalifa.tv and open any video page under the /en/videos/ route.",
+      "Allow the embedded player or iframe surface to fully load.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the extension to detect available media sources.",
+      "Select the quality or format option you want to download.",
+      "Click the download button and let the process complete.",
+      "Save the resulting MP4 file to your preferred local folder."
+    ],
+    "supported_formats": [
+      "Input: m3u8 playlists and direct mp4 sources exposed by the MiaKhalifa.tv embedded player",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Visitors to MiaKhalifa.tv who want to save media from /en/videos/ pages",
+      "Users who prefer a site-specific downloader over generic adult-site tools",
+      "People who understand the embedded player handoff flow on performer-branded.tv sites",
+      "Those who want private, local downloads without third-party services"
+    ],
+    "use_cases": [
+      "Downloading videos from MiaKhalifa.tv for offline viewing",
+      "Archiving favorite content from the site's name-led catalog",
+      "Saving media when you have a slow or unreliable internet connection",
+      "Building a personal local collection of performer-branded content",
+      "Testing the download workflow before committing to a paid license"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media Make sure the video page has fully loaded and the embedded player has initialized. Try refreshing the page and starting playback before opening the popup.",
+      "The download fails or produces a broken file Check your internet connection and ensure the page is still open. Some streams may require the player to be actively playing before the source becomes available.",
+      "The popup shows no available sources This can happen if the page uses a different player format or if the stream is protected. Try a different video page under the /en/videos/ route.",
+      "The extension icon is grayed out The extension only activates on MiaKhalifa.tv pages under the /en/videos/ path. Make sure you are on a supported URL.",
+      "Multiple quality options are missing Not all videos expose multiple quality tiers. The extension can only show what the page and embedded player make available."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported MiaKhalifa.tv page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "MiaKhalifa.tv uses an embedded player handoff, so the stream may not appear until the iframe fully loads",
+      "This extension is designed for the /en/videos/ route and name-led catalog slugs"
+    ],
+    "about": [
+      "Miakhalifatv is a performer-branded adult entertainment platform that uses a.tv domain and organizes its video catalog under /en/videos/ routes with name-led slugs. This extension helps visitors capture available media from those pages using the site's embedded player structure."
+    ]
+  },
+  "serpx_link": "https://serpx.link/miakhalifatv-downloader",
+  "github_topics": [
+    "miakhalifatv-download",
+    "miakhalifatv-downloader",
+    "miakhalifatv-video-downloader",
+    "miakhalifatv-video-downloader-online",
+    "miakhalifatv-video-downloader-mac",
+    "miakhalifatv-video-downloader-window",
+    "miakhalifatv-video-downloader-free",
+    "miakhalifatv-video-downloader-extension",
+    "miakhalifatv-video-downloader-app",
+    "miakhalifatv-video-downloader-chrome",
+    "miakhalifatv-video-downloader-from-url",
+    "how-to-download-miakhalifatv-videos",
+    "how-to-download-miakhalifatv-videos-mac",
+    "how-to-download-miakhalifatv-videos-windows",
+    "how-to-download-miakhalifatv-videos-online",
+    "how-to-download-miakhalifatv-videos-free",
+    "how-to-download-from-miakhalifatv",
+    "how-to-download-videos-from-miakhalifatv",
+    "download-miakhalifatv-videos",
+    "miakhalifatv-video-tutorial",
+    "save-miakhalifatv-videos",
+    "miakhalifatv-video-content-saver",
+    "how-to-download-miakhalifatv-videos-for-free"
+  ],
+  "hashtags": [
+    "#MiakhalifatvDownload",
+    "#MiakhalifatvDownloader",
+    "#MiakhalifatvVideoDownloader",
+    "#MiakhalifatvVideoDownloaderOnline",
+    "#MiakhalifatvVideoDownloaderMac",
+    "#MiakhalifatvVideoDownloaderWindow",
+    "#MiakhalifatvVideoDownloaderFree",
+    "#MiakhalifatvVideoDownloaderExtension",
+    "#MiakhalifatvVideoDownloaderApp",
+    "#MiakhalifatvVideoDownloaderChrome",
+    "#MiakhalifatvVideoDownloaderFromURL",
+    "#HowToDownloadMiakhalifatvVideos",
+    "#HowToDownloadMiakhalifatvVideosMac",
+    "#HowToDownloadMiakhalifatvVideosWindows",
+    "#HowToDownloadMiakhalifatvVideosOnline",
+    "#HowToDownloadMiakhalifatvVideosFree",
+    "#HowToDownloadFromMiakhalifatv",
+    "#HowToDownloadVideosFromMiakhalifatv",
+    "#DownloadMiakhalifatvVideos",
+    "#MiakhalifatvVideoTutorial",
+    "#SaveMiakhalifatvVideos",
+    "#MiakhalifatvVideoContentSaver",
+    "#HowToDownloadMiakhalifatvVideosForFree"
+  ],
+  "youtube_tags": [
+    "Miakhalifatv Download",
+    "Miakhalifatv Downloader",
+    "Miakhalifatv Video Downloader",
+    "Miakhalifatv Video Downloader Online",
+    "Miakhalifatv Video Downloader Mac",
+    "Miakhalifatv Video Downloader Window",
+    "Miakhalifatv Video Downloader Free",
+    "Miakhalifatv Video Downloader Extension",
+    "Miakhalifatv Video Downloader App",
+    "Miakhalifatv Video Downloader Chrome",
+    "Miakhalifatv Video Downloader From URL",
+    "How To Download Miakhalifatv Videos",
+    "How To Download Miakhalifatv Videos Mac",
+    "How To Download Miakhalifatv Videos Windows",
+    "How To Download Miakhalifatv Videos Online",
+    "How To Download Miakhalifatv Videos Free",
+    "How To Download From Miakhalifatv",
+    "How To Download Videos From Miakhalifatv",
+    "Download Miakhalifatv Videos",
+    "Miakhalifatv Video Tutorial",
+    "Save Miakhalifatv Videos",
+    "Miakhalifatv Video Content Saver",
+    "How To Download Miakhalifatv Videos For Free"
+  ]
+}
